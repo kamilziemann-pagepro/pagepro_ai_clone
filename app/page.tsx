@@ -1,23 +1,26 @@
-import { client } from "@/lib/sanity"
-import { allDataQuery } from "@/lib/queries"
-import Navbar from "@/components/navbar"
-import HeroSection from "@/components/hero-section"
-import BenefitsSection from "@/components/benefits-section"
-import ClientLogosSection from "@/components/client-logos-section"
-import TestimonialsSection from "@/components/testimonials-section"
-import CaseStudiesSection from "@/components/case-studies-section"
-import ServicesSection from "@/components/services-section"
-import ProcessSection from "@/components/process-section"
-import TechStackSection from "@/components/tech-stack-section"
-import TeamSection from "@/components/team-section"
-import FAQSection from "@/components/faq-section"
-import BlogPreviewSection from "@/components/blog-preview-section"
-import AwardsSection from "@/components/awards-section"
-import ContactSection from "@/components/contact-section"
-import Footer from "@/components/footer"
+import { client } from "@/lib/sanity";
+import { allDataQuery } from "@/lib/queries";
+import Navbar from "@/components/navbar";
+import HeroSection from "@/components/hero-section";
+import BenefitsSection from "@/components/benefits-section";
+import ClientLogosSection from "@/components/client-logos-section";
+import TestimonialsSection from "@/components/testimonials-section";
+import CaseStudiesSection from "@/components/case-studies-section";
+import ServicesSection from "@/components/services-section";
+import ProcessSection from "@/components/process-section";
+import TechStackSection from "@/components/tech-stack-section";
+import TeamSection from "@/components/team-section";
+import FAQSection from "@/components/faq-section";
+import BlogPreviewSection from "@/components/blog-preview-section";
+import AwardsSection from "@/components/awards-section";
+import ContactSection from "@/components/contact-section";
+import Footer from "@/components/footer";
+
+export const revalidate = 0;
+export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const data = await client.fetch(allDataQuery)
+  const data = await client.fetch(allDataQuery, {}, { cache: "no-store" });
 
   return (
     <main className="min-h-screen">
@@ -39,5 +42,5 @@ export default async function Home() {
         <Footer data={data.footer} />
       </div>
     </main>
-  )
+  );
 }
