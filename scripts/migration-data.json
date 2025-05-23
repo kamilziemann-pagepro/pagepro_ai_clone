@@ -1,0 +1,513 @@
+{
+  "navbar": {
+    "_type": "navbar",
+    "logo": {
+      "_type": "image",
+      "alt": "Pagepro Logo"
+    },
+    "menuItems": [
+      {
+        "title": "Host Nextjs For Less",
+        "link": "/host-nextjs"
+      },
+      {
+        "title": "Services",
+        "link": "/services"
+      },
+      {
+        "title": "Case Studies",
+        "link": "/case-studies"
+      },
+      {
+        "title": "About",
+        "link": "/about"
+      },
+      {
+        "title": "Career",
+        "link": "/career"
+      },
+      {
+        "title": "Blog",
+        "link": "/blog"
+      }
+    ],
+    "ctaButton": {
+      "text": "CONTACT US",
+      "link": "/contact"
+    }
+  },
+  "hero": {
+    "_type": "hero",
+    "heading": "Next.js, Sanity and Expo\nDevelopment Agency",
+    "subheading": {
+      "beforeHighlight": "Frictionless Development for ",
+      "highlight": "CTOs of Digital Product Scale-Ups."
+    },
+    "description": "Leverage our proven processes and deep & narrow expertise to advance and innovate your digital products.\nInvest with confidence, paying only for outcomes that reflect our high standards.",
+    "ctaButton": {
+      "text": "Contact us",
+      "link": "/contact"
+    }
+  },
+  "benefits": {
+    "_type": "benefits",
+    "heading": "Use the benefits",
+    "subheading": "of narrow-specialized agency dedicated to Next.js, Expo and Sanity",
+    "items": [
+      {
+        "title": "Tap Into Deep\nExpertise",
+        "description": "Unlock quality and efficiency for your projects by using the power of Next.js, Sanity and Expo. Your apps will be built on the industry's best and most proven libraries. This ensures not just top-tier performance but also easy maintenance and significant cost savings for your business."
+      },
+      {
+        "title": "Stay Ahead with\nCutting-Edge Tech",
+        "description": "Stay at the cutting edge of digital innovation. Leverage the latest tech trends, from headless CMSes to low-code and no-code solutions. Make your applications future-proof and integrate seamlessly with your existing systems for maximal operational efficiency."
+      },
+      {
+        "title": "Experience Seamless\nProject Execution",
+        "description": "Enjoy a development process that's as efficient as it is effective. From initial development to deployment and even post-launch maintenance, a streamlined process ensures your projects are on time, secure, and optimised for peak performance - eliminating common hiccups and setbacks."
+      },
+      {
+        "title": "Enjoy Personalized\nService and Expert\nOversight",
+        "description": "Step into a partnership where you're the central focus. Every project benefits from direct CTO expertise, ensuring insights are aligned with your vision. And with clear, regular updates, you stay informed and empowered, enjoying the hands-on attention that sets apart truly personalised service."
+      }
+    ]
+  },
+  "clientLogos": {
+    "_type": "clientLogos",
+    "heading": "Trusted by Industry Leaders",
+    "subheading": "We've helped these companies build exceptional digital products",
+    "logos": [
+      { "name": "Microsoft" },
+      { "name": "Google" },
+      { "name": "Amazon" },
+      { "name": "IBM" },
+      { "name": "Salesforce" },
+      { "name": "Adobe" },
+      { "name": "Oracle" },
+      { "name": "SAP" },
+      { "name": "Cisco" },
+      { "name": "Intel" },
+      { "name": "Dell" },
+      { "name": "HP" }
+    ]
+  },
+  "testimonials": {
+    "_type": "testimonials",
+    "testimonialItems": [
+      {
+        "quote": "The best thing about working with Pagepro is that you guys are always learning, you always taking time to do professional development and (...) you bring back to the table things that make sense to our project",
+        "author": "Adam Harvey",
+        "company": "CEO Proofed",
+        "backgroundColor": "red"
+      },
+      {
+        "quote": "Despite working remotely, it feels as if they were somewhere in the office. Unlike other dev houses, they have only one goal - to contribute to your team, something you can immediately tell. No nasty surprises or side projects. Uniquely serious approach.",
+        "author": "Patryk Kabaj",
+        "company": "CPO & Co-Founder at Packhelp",
+        "backgroundColor": "light-gray"
+      },
+      {
+        "quote": "Put very simply, Pagepro is amazing to work with. They feel like an extension of my own team. They're fast and effective and I feel like they deeply understand our product and what we're building.",
+        "author": "Mustafa Mohamed",
+        "company": "Co-founder & CTO, Yoke Network",
+        "backgroundColor": "light-gray"
+      }
+    ]
+  },
+  "caseStudies": {
+    "_type": "caseStudies",
+    "heading": "Case Studies",
+    "subheading": "See how we've helped our clients achieve their goals",
+    "caseStudies": [
+      {
+        "title": "Fintech Mobile App",
+        "description": "We built a Next.js and React Native app for a leading fintech company, resulting in a 40% increase in user engagement.",
+        "tags": ["Next.js", "React Native", "Fintech"],
+        "link": "/case-studies/fintech-app"
+      },
+      {
+        "title": "E-commerce Platform",
+        "description": "A headless e-commerce solution with Sanity CMS that improved conversion rates by 25% and page load times by 60%.",
+        "tags": ["Next.js", "Sanity", "E-commerce"],
+        "link": "/case-studies/ecommerce-platform"
+      },
+      {
+        "title": "Healthcare Portal",
+        "description": "A secure, HIPAA-compliant healthcare portal built with Next.js and Expo, enabling seamless patient-doctor communication.",
+        "tags": ["Next.js", "Expo", "Healthcare"],
+        "link": "/case-studies/healthcare-portal"
+      },
+      {
+        "title": "SaaS Dashboard",
+        "description": "A comprehensive analytics dashboard for a SaaS company, featuring real-time data visualization and reporting.",
+        "tags": ["Next.js", "SaaS", "Dashboard"],
+        "link": "/case-studies/saas-dashboard"
+      },
+      {
+        "title": "Educational Platform",
+        "description": "An interactive learning platform with Sanity CMS that helped a leading educational institution reach 200% more students.",
+        "tags": ["Next.js", "Sanity", "Education"],
+        "link": "/case-studies/educational-platform"
+      },
+      {
+        "title": "Real Estate App",
+        "description": "A mobile-first real estate application built with Expo that streamlined property searches and increased leads by 35%.",
+        "tags": ["Expo", "React Native", "Real Estate"],
+        "link": "/case-studies/real-estate-app"
+      }
+    ],
+    "ctaButton": {
+      "text": "VIEW ALL CASE STUDIES",
+      "link": "/case-studies"
+    }
+  },
+  "services": {
+    "_type": "services",
+    "heading": "Our Main Services",
+    "serviceItems": [
+      {
+        "title": "Next.js",
+        "description": "Optimize your web strategy with full-stack Next.js applications that combine top-tier performance and AI integration."
+      },
+      {
+        "title": "Expo Development",
+        "description": "Deliver high-performance mobile apps faster, reduce costs, and ensure seamless integration with your existing systems."
+      },
+      {
+        "title": "Sanity Development",
+        "description": "Power up your digital channel with a scalable, flexible CMS that grows with your business."
+      },
+      {
+        "title": "Team Augmentation",
+        "description": "Enhance your existing team with skilled developers to scale your projects efficiently."
+      }
+    ],
+    "ctaButton": {
+      "text": "SEE MORE SERVICES",
+      "link": "/services"
+    }
+  },
+  "process": {
+    "_type": "process",
+    "heading": "Our Process",
+    "subheading": "How we deliver exceptional results",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "description": "We start by understanding your business goals, target audience, and project requirements. Our team conducts thorough research and creates a detailed roadmap for your project."
+      },
+      {
+        "number": 2,
+        "title": "Design & Prototyping",
+        "description": "Our designers create intuitive, user-friendly interfaces that align with your brand identity. We develop interactive prototypes to visualize the final product before development begins."
+      },
+      {
+        "number": 3,
+        "title": "Development",
+        "description": "Our expert developers build your application using the latest technologies and best practices. We follow agile methodologies to ensure transparency and flexibility throughout the development process."
+      },
+      {
+        "number": 4,
+        "title": "Testing & Quality Assurance",
+        "description": "We conduct rigorous testing to ensure your application is bug-free, secure, and performs optimally across all devices and platforms."
+      },
+      {
+        "number": 5,
+        "title": "Deployment & Launch",
+        "description": "We handle the deployment process, ensuring a smooth transition to production. Our team provides comprehensive documentation and training to help you manage your application effectively."
+      },
+      {
+        "number": 6,
+        "title": "Ongoing Support & Maintenance",
+        "description": "We offer continuous support and maintenance services to keep your application running smoothly. Our team is always available to address any issues and implement new features as your business evolves."
+      }
+    ]
+  },
+  "techStack": {
+    "_type": "techStack",
+    "heading": "Use the Full Potential of the Modern Tech Stack\nFor Your Web or Mobile App",
+    "technologies": [
+      { "name": "Next.js" },
+      { "name": "Sanity" },
+      { "name": "Expo" },
+      { "name": "React" },
+      { "name": "React Native" },
+      { "name": "TypeScript" },
+      { "name": "Node.js" },
+      { "name": "Vercel" },
+      { "name": "Jamstack" },
+      { "name": "AWS" },
+      { "name": "GraphQL" },
+      { "name": "Tailwind CSS" },
+      { "name": "Supabase" },
+      { "name": "Firebase" },
+      { "name": "Stripe" },
+      { "name": "Prisma" },
+      { "name": "tRPC" },
+      { "name": "Storybook" }
+    ]
+  },
+  "team": {
+    "_type": "team",
+    "heading": "Our Team",
+    "subheading": "Meet the experts behind our success",
+    "teamMembers": [
+      {
+        "name": "John Smith",
+        "position": "CEO & Founder",
+        "bio": "With over 15 years of experience in web development, John leads our team with vision and expertise.",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/johnsmith",
+          "twitter": "https://twitter.com/johnsmith"
+        }
+      },
+      {
+        "name": "Anna Johnson",
+        "position": "CTO",
+        "bio": "Anna is a Next.js expert with a passion for creating scalable and performant web applications.",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/annajohnson"
+        }
+      },
+      {
+        "name": "Michael Brown",
+        "position": "Lead React Native Developer",
+        "bio": "Michael specializes in creating cross-platform mobile applications with React Native and Expo.",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/michaelbrown",
+          "twitter": "https://twitter.com/michaelbrown"
+        }
+      },
+      {
+        "name": "Sarah Davis",
+        "position": "Head of Design",
+        "bio": "Sarah combines aesthetics with functionality to create intuitive and engaging user experiences.",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/in/sarahdavis"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "_type": "faq",
+    "heading": "Frequently Asked Questions",
+    "subheading": "Find answers to common questions about our services",
+    "faqs": [
+      {
+        "question": "What is Next.js and why should I use it for my project?",
+        "answer": "Next.js is a React framework that enables server-side rendering, static site generation, and other performance optimizations. It's ideal for building fast, SEO-friendly web applications with excellent developer experience. We recommend Next.js for projects that require optimal performance, SEO, and scalability."
+      },
+      {
+        "question": "How does Sanity CMS differ from traditional content management systems?",
+        "answer": "Sanity is a headless CMS that separates content from presentation, giving you complete flexibility in how your content is displayed across different platforms. Unlike traditional CMSs, Sanity allows for structured content, real-time collaboration, and custom editing experiences. It's perfect for multi-channel publishing and complex content models."
+      },
+      {
+        "question": "What advantages does Expo offer for mobile app development?",
+        "answer": "Expo is a framework and platform for universal React applications that simplifies the process of building, deploying, and iterating on iOS, Android, and web apps from the same JavaScript/TypeScript codebase. It offers faster development cycles, over-the-air updates, and access to native device features without requiring native code knowledge."
+      },
+      {
+        "question": "How long does it typically take to complete a project?",
+        "answer": "Project timelines vary depending on complexity, scope, and requirements. A simple website might take 4-6 weeks, while a complex application could take 3-6 months. During our initial consultation, we'll provide a detailed timeline based on your specific project needs."
+      },
+      {
+        "question": "Do you offer ongoing maintenance and support after launch?",
+        "answer": "Yes, we offer various maintenance and support packages to ensure your application continues to run smoothly after launch. These include regular updates, security patches, performance monitoring, and feature enhancements. We can tailor a support plan to meet your specific needs and budget."
+      },
+      {
+        "question": "How do you handle project communication and updates?",
+        "answer": "We believe in transparent and regular communication. We use project management tools like Jira or Asana, conduct weekly progress meetings, and provide detailed reports. Our clients have direct access to the project team, including developers, designers, and project managers."
+      }
+    ]
+  },
+  "blogPreview": {
+    "_type": "blogPreview",
+    "heading": "Latest from Our Blog",
+    "subheading": "Insights, tips, and industry trends",
+    "blogPosts": [
+      {
+        "title": "How Next.js 15 is Revolutionizing Web Development",
+        "excerpt": "Explore the latest features in Next.js 15 and how they can improve your web application's performance and developer experience.",
+        "slug": "nextjs-15-features",
+        "publishedAt": "2025-05-15T10:00:00Z",
+        "categories": ["Next.js", "Web Development"]
+      },
+      {
+        "title": "Building a Headless E-commerce Platform with Sanity and Next.js",
+        "excerpt": "Learn how to create a flexible, high-performance e-commerce solution using Sanity as a headless CMS and Next.js for the frontend.",
+        "slug": "headless-ecommerce-sanity-nextjs",
+        "publishedAt": "2025-05-10T10:00:00Z",
+        "categories": ["Sanity", "E-commerce", "Next.js"]
+      },
+      {
+        "title": "Cross-Platform App Development with Expo: A Complete Guide",
+        "excerpt": "Discover how Expo simplifies the process of building and deploying mobile applications for both iOS and Android platforms.",
+        "slug": "cross-platform-development-expo",
+        "publishedAt": "2025-05-05T10:00:00Z",
+        "categories": ["Expo", "Mobile Development"]
+      }
+    ],
+    "ctaButton": {
+      "text": "VIEW ALL ARTICLES",
+      "link": "/blog"
+    }
+  },
+  "awards": {
+    "_type": "awards",
+    "heading": "Awards & Recognition",
+    "subheading": "Our achievements and industry recognition",
+    "awards": [
+      {
+        "name": "Clutch Global 1000",
+        "description": "Recognized among the top 1000 B2B service providers globally",
+        "year": "2024"
+      },
+      {
+        "name": "Forbes Diamond",
+        "description": "Listed among the fastest-growing companies in Poland",
+        "year": "2024"
+      },
+      {
+        "name": "Top Next.js Developer",
+        "description": "Ranked as a leading Next.js development agency",
+        "year": "2023"
+      },
+      {
+        "name": "Clutch Champion",
+        "description": "Awarded for exceptional client satisfaction and service quality",
+        "year": "2023"
+      }
+    ]
+  },
+  "contact": {
+    "_type": "contact",
+    "heading": "Let's talk\nabout your project",
+    "description": "Tell us about your challenge, and let's get the ball rolling.",
+    "ctaButton": {
+      "text": "Talk With Our CEO",
+      "link": "/contact"
+    }
+  },
+  "footer": {
+    "_type": "footer",
+    "heading": "Have a question?\nContact us directly.",
+    "contactEmail": "hello@pagepro.co",
+    "clutchRating": {
+      "rating": 4.9,
+      "reviewCount": 31
+    },
+    "sections": [
+      {
+        "title": "Technologies",
+        "links": [
+          { "title": "Next.js Development", "url": "/services/nextjs" },
+          { "title": "Expo Development", "url": "/services/expo" },
+          { "title": "Sanity Development", "url": "/services/sanity" },
+          { "title": "React.js Development", "url": "/services/react" },
+          { "title": "React Native Development", "url": "/services/react-native" },
+          { "title": "Node.js Development", "url": "/services/nodejs" },
+          { "title": "Webflow Development", "url": "/services/webflow" },
+          { "title": "Jamstack Development", "url": "/services/jamstack" },
+          { "title": "Gatsby.js Development", "url": "/services/gatsby" }
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          { "title": "Next.js Vercel Cost Optimization", "url": "/services/nextjs-optimization" },
+          { "title": "Next.js Performance Optimization", "url": "/services/performance" },
+          { "title": "Web App Development", "url": "/services/web-app" },
+          { "title": "Mobile App Development", "url": "/services/mobile-app" },
+          { "title": "Team Augmentation", "url": "/services/team-augmentation" },
+          { "title": "AI Chatbot Development", "url": "/services/ai-chatbot" },
+          { "title": "Technical Discovery", "url": "/services/discovery" },
+          { "title": "MVP Development", "url": "/services/mvp" },
+          { "title": "Post Release Support", "url": "/services/support" },
+          { "title": "Front-end Development", "url": "/services/frontend" },
+          { "title": "PWA Development", "url": "/services/pwa" },
+          { "title": "For Digital Agencies", "url": "/services/agencies" },
+          { "title": "MVP for Insurance Industry", "url": "/services/insurance" },
+          { "title": "Modular Website in 6 weeks", "url": "/services/modular" }
+        ]
+      },
+      {
+        "title": "Top Picks from Our Blog",
+        "links": [
+          { "title": "Publishing Expo App to App Stores", "url": "/blog/expo-app-stores" },
+          { "title": "Best Examples of React Native Apps", "url": "/blog/react-native-examples" },
+          { "title": "Best Next.js websites examples", "url": "/blog/nextjs-examples" },
+          { "title": "What is Next.js", "url": "/blog/what-is-nextjs" },
+          { "title": "Pros and cons of Next.js", "url": "/blog/nextjs-pros-cons" },
+          { "title": "React js vs Svelte", "url": "/blog/react-vs-svelte" },
+          { "title": "Project plan for mobile app development", "url": "/blog/mobile-app-plan" }
+        ]
+      },
+      {
+        "title": "About",
+        "links": [
+          { "title": "Case Studies", "url": "/case-studies" },
+          { "title": "Services", "url": "/services" },
+          { "title": "About", "url": "/about" },
+          { "title": "Career", "url": "/career" },
+          { "title": "Blog", "url": "/blog" },
+          { "title": "Ebook", "url": "/ebook" },
+          { "title": "Host Next js for Less - Expert Sessions", "url": "/expert-sessions" }
+        ]
+      }
+    ],
+    "offices": [
+      {
+        "country": "UK Office",
+        "address": "7 Bell Yard\nLondon WC2A 2JR\nEngland",
+        "phone": "+44 778 312 5260"
+      },
+      {
+        "country": "Polish Office",
+        "address": "Dąbrowskiego 28\n15-872 Białystok\nPoland",
+        "phone": "+48 883 782 000"
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "Netlify",
+        "description": "Netlify Official Partner"
+      },
+      {
+        "name": "Sanity",
+        "description": "Sanity Official Partner"
+      },
+      {
+        "name": "Strapi",
+        "description": "Strapi Official Partner"
+      },
+      {
+        "name": "Storyblok",
+        "description": "Storyblok Official Partner"
+      },
+      {
+        "name": "Clutch Global",
+        "description": "Top 1000 Companies Clutch Global 2023"
+      },
+      {
+        "name": "Clutch Champion",
+        "description": "Clutch Champion Winner Fall 2023"
+      },
+      {
+        "name": "NextJS Developer",
+        "description": "Top NextJS Developer 2023"
+      },
+      {
+        "name": "Forbes Diamond",
+        "description": "Forbes Diamond Poland 2024"
+      }
+    ],
+    "socialLinks": [
+      { "platform": "LinkedIn", "url": "https://linkedin.com/company/pagepro" },
+      { "platform": "Twitter", "url": "https://twitter.com/pagepro" },
+      { "platform": "Facebook", "url": "https://facebook.com/pagepro" },
+      { "platform": "Instagram", "url": "https://instagram.com/pagepro" },
+      { "platform": "YouTube", "url": "https://youtube.com/pagepro" }
+    ],
+    "copyright": "2025 © All rights reserved. Pagepro Ltd."
+  }
+}
